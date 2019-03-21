@@ -5,5 +5,9 @@ public class S1 {
 		
 		System.out.println("create base");
 	}
+	private void adddrop() {		
+		System.out.println("impl sel dropdown");
+
+	}
 
 }
